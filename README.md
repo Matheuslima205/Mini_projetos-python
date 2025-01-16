@@ -1,4 +1,4 @@
-# Mini Projetos em Python
+# Mini Projetos em Python 🐍
 Bem-vindo ao meu repositório de mini projetos em Python! Criei esse repositório para acompanhar meu progresso no aprendizado de programação em Python, enquanto desenvolvo pequenos projetos práticos.
 
 ##Sobre Mim 👨‍💻
