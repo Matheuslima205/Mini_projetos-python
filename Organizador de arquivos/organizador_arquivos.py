@@ -5,14 +5,16 @@ videos = ['.mp4', '.mov', '.avi']
 imagens = ['.jpg', '.jpeg', '.png']
 documentos = ['.txt', '.log', '.pdf']
 
+# Determinar o tipo de extensão de arquivos e retornar para função de organização
 def determinar_extensao(arquivo):
     ext = arquivo.rfinder('.')
     extensao = arquivo[ext:]
 
     return extensao
     
-
+# Criar as pastas e organizar os arquivos em suas devidas correspondencias
 def organizador(diretorio):
+    """Criação das pastas"""
     audios = os.path.join(diretorio, "audios")
     videos = os.path.join(diretorio, "videos")
     imagens = os.path.join(diretorio, "imagens")
@@ -35,7 +37,7 @@ def organizador(diretorio):
 
     for arquivo in arquivos:
         if os.path.isfile(os.path.join(diretorio, arquivo)):
-
+            # Destribuição de arquivos
             extensao = determinar_extensao(arquivo)
             if extensao in audios:
                 novo_arquivo = audios
