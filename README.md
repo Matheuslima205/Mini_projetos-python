@@ -14,6 +14,10 @@ Sou um estudante de Ciência da Computação no 3° semestre e estou começando 
 - **Descrição:** Um gerador de senhas aleatórias para maior segurança.
 - **Conceitos utilizados:** Módulo `random`, manipulação de strings.
 
+## 2. Organizador de arquivos 🗃️
+- **Descrição:** Um organizador de arquivos para maior produtividade.
+- **Conceitos utilizados:** Módulo `os`, manipulação de arquivos.
+
 ## Tecnologias 🛠️
 - Linguagem: **Python 3.10+**
 
