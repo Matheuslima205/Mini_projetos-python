@@ -14,15 +14,15 @@ Sou um estudante de Ciência da Computação no 3° semestre e estou começando 
 - **Descrição:** Um gerador de senhas aleatórias para maior segurança.
 - **Conceitos utilizados:** Módulo `random`, manipulação de strings.
 
-## 2. Organizador de Arquivos 📂
+### 2. Organizador de Arquivos 📂
 - **Descrição:** Organizador de arquivos de áudio, videos, imagens, documentos e outros (Reconhecimento por formato do arquivo).
 - **Conceitos utilizados:** Módulo `os` e funções.
 
-## 3. Controle Financeiro 💸
+### 3. Controle Financeiro 💸
 - **Descrição:** Sistema de controle financeiro para vizualização de gastos e limites.
 - **Conceitos utilizados:** Módulo `os`,`json` e funções.
 
-## 4. Contador de Vogais 
+### 4. Contador de Vogais 
 - **Descrição:** Contagem de Vogais em nomes e sua proporção.
 - **Conceitos utilizados:** Conteúdo básico de programação. 
 
