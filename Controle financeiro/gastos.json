@@ -1,0 +1,10 @@
+{
+    "gastos": [
+        {
+            "valor": 50.0,
+            "categoria": "livre",
+            "data": "11/02/25"
+        }
+    ],
+    "limite": 1000.0
+}

@@ -48,7 +48,7 @@ def organizador(diretorio):
             else:
                 novo_arquivo = outros
             
-            os.rename(os.path.join(diretorio, arquivo), os.path.join(diretorio, arquivo))
+            os.rename(os.path.join(diretorio, arquivo), os.path.join(novo_arquivo, arquivo))
         
 if __name__ == "__main__":
     organizador('testes')
